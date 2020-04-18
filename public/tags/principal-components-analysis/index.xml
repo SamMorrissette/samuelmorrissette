@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Principal Components Analysis | Samuel Morrissette</title>
-    <link>/tags/principal-components-analysis/</link>
-      <atom:link href="/tags/principal-components-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://samuelmorrissette.com/tags/principal-components-analysis/</link>
+      <atom:link href="https://samuelmorrissette.com/tags/principal-components-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Principal Components Analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Principal Components Analysis</title>
-      <link>/tags/principal-components-analysis/</link>
+      <link>https://samuelmorrissette.com/tags/principal-components-analysis/</link>
     </image>
     
     <item>
       <title>An Application of Principal Components Analysis in Genetics</title>
-      <link>/post/an-application-of-principal-components-analysis-in-genetics/</link>
+      <link>https://samuelmorrissette.com/post/an-application-of-principal-components-analysis-in-genetics/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/an-application-of-principal-components-analysis-in-genetics/</guid>
+      <guid>https://samuelmorrissette.com/post/an-application-of-principal-components-analysis-in-genetics/</guid>
       <description>
 
 
