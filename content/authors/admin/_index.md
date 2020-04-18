@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include Bayesian Statistics and Statistical Computing.
 education:
   courses:
   - course: M.Sc in Statistics 

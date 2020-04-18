@@ -77,14 +77,16 @@
     </item>
     
     <item>
-      <title>Test123</title>
-      <link>/post/test123/</link>
+      <title>An Application of Principal Components Analysis in Genetics</title>
+      <link>/post/an-application-of-principal-components-analysis-in-genetics/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/post/test123/</guid>
+      <guid>/post/an-application-of-principal-components-analysis-in-genetics/</guid>
       <description>
 
 
-
+&lt;p&gt;I am currently taking a graduate class in Multivariate Statistics in the second semester of my masters program. As a final project, we had the opportuntity to research an article and create a small presentation to summarize the article and discuss its merit.&lt;/p&gt;
+&lt;p&gt;I chose an article released in 2006 by Price, et al. that had a major impact in the field of genetics. In the article (which can be found online), the authors propose an algorithm that utilizes principal components analysis, a dimension-reduction method often used in the field of statistics. If you’re interested, you can find my slides here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://samuelmorrissette.com/slides/pcagenetics.pdf&#34;&gt;An Application of Principal Components Analysis in Genetics&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

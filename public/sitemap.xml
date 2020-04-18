@@ -28,13 +28,33 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-04-18T02:34:18-05:00</lastmod>
+    <loc>/post/an-application-of-principal-components-analysis-in-genetics/</loc>
+    <lastmod>2020-04-18T02:37:02-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/test123/</loc>
-    <lastmod>2020-04-18T02:34:18-05:00</lastmod>
+    <loc>/tags/genetics/</loc>
+    <lastmod>2020-04-18T02:37:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pca/</loc>
+    <lastmod>2020-04-18T02:37:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-18T02:37:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/principal-components-analysis/</loc>
+    <lastmod>2020-04-18T02:37:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-18T02:37:02-05:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +94,6 @@
   
   <url>
     <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   

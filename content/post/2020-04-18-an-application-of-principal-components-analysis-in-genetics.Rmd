@@ -1,0 +1,27 @@
+---
+title: An Application of Principal Components Analysis in Genetics
+author: Samuel Morrissette
+date: '2020-04-18'
+slug: an-application-of-principal-components-analysis-in-genetics
+categories: []
+tags:
+  - PCA
+  - Principal Components Analysis
+  - Genetics
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-04-18T02:37:02-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I am currently taking a graduate class in Multivariate Statistics in the second semester of my masters program. As a final project, we had the opportuntity to research an article and create a small presentation to summarize the article and discuss its merit. 
+
+I chose an article released in 2006 by Price, et al. that had a major impact in the field of genetics. In the article (which can be found online), the authors propose an algorithm that utilizes principal components analysis, a dimension-reduction method often used in the field of statistics. If you're interested, you can find my slides here:
+
+[An Application of Principal Components Analysis in Genetics](http://samuelmorrissette.com/slides/pcagenetics.pdf)

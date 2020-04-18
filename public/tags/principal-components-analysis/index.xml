@@ -5,7 +5,7 @@
     <link>/tags/principal-components-analysis/</link>
       <atom:link href="/tags/principal-components-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Principal Components Analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Apr 2020 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Principal Components Analysis</title>
@@ -14,51 +14,15 @@
     
     <item>
       <title>An Application of Principal Components Analysis in Genetics</title>
-      <link>/post/pcagenetics/</link>
-      <pubDate>Sun, 19 Apr 2020 21:13:14 -0500</pubDate>
-      <guid>/post/pcagenetics/</guid>
+      <link>/post/an-application-of-principal-components-analysis-in-genetics/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/an-application-of-principal-components-analysis-in-genetics/</guid>
       <description>
 
 
-&lt;div id=&#34;principal-components-analysis&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Principal Components Analysis&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://samuelmorrissette.com/slides/pcagenetics.pdf&#34; class=&#34;uri&#34;&gt;http://samuelmorrissette.com/slides/pcagenetics.pdf&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/PCAGenetics_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;I am currently taking a graduate class in Multivariate Statistics in the second semester of my masters program. As a final project, we had the opportuntity to research an article and create a small presentation to summarize the article and discuss its merit.&lt;/p&gt;
+&lt;p&gt;I chose an article released in 2006 by Price, et al. that had a major impact in the field of genetics. In the article (which can be found online), the authors propose an algorithm that utilizes principal components analysis, a dimension-reduction method often used in the field of statistics. If you’re interested, you can find my slides here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://samuelmorrissette.com/slides/pcagenetics.pdf&#34;&gt;An Application of Principal Components Analysis in Genetics&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
